@@ -1,0 +1,19 @@
+{
+  "name": "generate-i18n-from-spreadsheet",
+  "version": "1.0.0",
+  "description": "Generate language JSON file from translation spreadsheet in .xlsx format for internationalization i18n",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18n",
+    "json",
+    "xlsx"
+  ],
+  "author": "Luke Schoen",
+  "license": "ISC",
+  "dependencies": {
+    "read-excel-file": "^4.0.4"
+  }
+}
